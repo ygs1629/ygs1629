@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/juan-luis-german-saura-60020421b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yannisgermansaura@gmail.com" target="_blank">
+  <a href="mailto: yannisgermansaura@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </h5>
@@ -30,13 +30,10 @@
 <p align="center">
   <!-- Lenguajes -->
   <img src="https://skillicons.dev/icons?i=python,r" />
-  <br>
   <!-- Data & AI -->
   <img src="https://skillicons.dev/icons?i=anaconda,tensorflow,pytorch" />
-  <br>
   <!-- DataViz & BI -->
   <img src="https://skillicons.dev/icons?i=powerbi,excel" />
-  <br>
   <!-- DevOps & Otros -->
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 </p>
