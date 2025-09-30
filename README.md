@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=anaconda,tensorflow,pytorch" />
   <!-- DataViz & BI -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40"/>
   <!-- DevOps & Otros -->
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 </p>
