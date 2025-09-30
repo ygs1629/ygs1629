@@ -5,9 +5,12 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/juan-luis-german-saura-60020421b/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  &nbsp;
-  <code><a href="mailto:yannisgermansaura@gmail.com" title="Send me an Email"><img width="22" src="images/gmail.svg"> Email</a></code>
+  <a href="https://www.linkedin.com/in/juan-luis-german-saura-60020421b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yannisgermansaura@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </h5>
 
 ---
@@ -30,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=python,r" />
   <br>
   <!-- Data & AI -->
-  <img src="https://skillicons.dev/icons?i=anaconda,tensorflow,pytorch,sklearn,matlab" />
+  <img src="https://skillicons.dev/icons?i=anaconda,tensorflow,pytorch" />
   <br>
   <!-- DataViz & BI -->
   <img src="https://skillicons.dev/icons?i=powerbi,excel" />
