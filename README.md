@@ -16,12 +16,11 @@
 ---
 
 <p align="center">
-  👋 Hi, my name is <b>Juan Luis German</b>.  
-  I'm currently pursuing a <b>Master in Artificial Intelligence</b> with a background in <b>Business Intelligence & Analytics</b>.  
-  <br><br>
-  🌍 Now based in <b>Valencia, Spain</b> 🇪🇸 
-  💡 Passionate about <b>data-driven decision making</b>, <b>AI applications</b> and <b>problem solving</b>.  
-  🚀 My goal is to transform knowledge into impactful and useful projects.  
+  👋 <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/png100px/gr.png" width="16" height="12" alt="Greece"> <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/png100px/es.png" width="16" height="12" alt="Spain"> Hi, my name is <b>Juan Luis German</b>.<br>
+   •  I'm currently pursuing a <b>Master in Artificial Intelligence</b> with a background in <b>Business Intelligence & Analytics</b><br>
+   • 🌍 Now based in <b>Valencia, Spain</b> 🇪🇸 </b><br>
+   • 💡 Passionate about <b>data-driven decision making</b>, <b>AI applications</b> and <b>problem solving</b>.  
+   • 🚀 My goal is to transform knowledge into impactful and useful projects.  
 </p>
 
 ---
