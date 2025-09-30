@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-   <img src="https://github.com/vlastimilvasek/country-flags/blob/master/svg/gr.svg" width="16" height="12" alt="Greece"> <img src="https://github.com/vlastimilvasek/country-flags/blob/master/svg/es.svg" width="16" height="12" alt="Spain"> </b>.<br>
+   <img src="https://github.com/vlastimilvasek/country-flags/blob/master/svg/gr.svg" width="16" height="12" alt="Greece"> <img src="https://github.com/vlastimilvasek/country-flags/blob/master/svg/es.svg" width="16" height="12" alt="Spain"> </b><br>
    •  I'm currently pursuing a <b>Master in Artificial Intelligence</b> with a background in <b>Business Intelligence & Analytics</b><br>
    • 💡 Passionate about <b>data-driven decision making</b>, <b>AI applications</b> and <b>problem solving</b>. </b><br>
    • 🚀 My goal is to transform knowledge into impactful and useful projects. </b><br>
@@ -33,7 +33,8 @@
   <!-- Data & AI -->
   <img src="https://skillicons.dev/icons?i=anaconda,tensorflow,pytorch" />
   <!-- DataViz & BI -->
-  <img src="https://skillicons.dev/icons?i=powerbi,excel" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg" width="40" />
   <!-- DevOps & Otros -->
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 </p>
