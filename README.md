@@ -19,7 +19,7 @@
   👋 Hi, my name is <b>Juan Luis German</b>.  
   I'm currently pursuing a <b>Master in Artificial Intelligence</b> with a background in <b>Business Intelligence & Analytics</b>.  
   <br><br>
-  🌍 Now based in <b>Valencia, Spain</b> 🇪🇸  
+  🌍 Now based in <b>Valencia, Spain</b> 🇪🇸 
   💡 Passionate about <b>data-driven decision making</b>, <b>AI applications</b> and <b>problem solving</b>.  
   🚀 My goal is to transform knowledge into impactful and useful projects.  
 </p>
