@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/juan-luis-german-saura-60020421b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yannisgermansaura@gmail.com" target="_blank">
+  <a href="mailto: yannisgermansaura@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </h5>
@@ -16,11 +16,11 @@
 ---
 
 <p align="center">
-  👋 <img src="https://github.com/vlastimilvasek/country-flags/blob/master/svg/gr.svg" width="16" height="12" alt="Greece"> <img src="https://github.com/vlastimilvasek/country-flags/blob/master/svg/es.svg" width="16" height="12" alt="Spain"> Hi, my name is <b>Juan Luis German</b>.<br>
+   <img src="https://github.com/vlastimilvasek/country-flags/blob/master/svg/gr.svg" width="16" height="12" alt="Greece"> <img src="https://github.com/vlastimilvasek/country-flags/blob/master/svg/es.svg" width="16" height="12" alt="Spain"> </b><br>
    •  I'm currently pursuing a <b>Master in Artificial Intelligence</b> with a background in <b>Business Intelligence & Analytics</b><br>
-   • 🌍 Now based in <b>Valencia, Spain</b> 🇪🇸 </b><br>
-   • 💡 Passionate about <b>data-driven decision making</b>, <b>AI applications</b> and <b>problem solving</b>.  
-   • 🚀 My goal is to transform knowledge into impactful and useful projects.  
+   • 💡 Passionate about <b>data-driven decision making</b>, <b>AI applications</b> and <b>problem solving</b>. </b><br>
+   • 🚀 My goal is to transform knowledge into impactful and useful projects. </b><br>
+   • 🌍 Now based in <b>Valencia, Spain</b> </b><br>
 </p>
 
 ---
@@ -30,13 +30,11 @@
 <p align="center">
   <!-- Lenguajes -->
   <img src="https://skillicons.dev/icons?i=python,r" />
-  <br>
   <!-- Data & AI -->
   <img src="https://skillicons.dev/icons?i=anaconda,tensorflow,pytorch" />
-  <br>
   <!-- DataViz & BI -->
-  <img src="https://skillicons.dev/icons?i=powerbi,excel" />
-  <br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40"/>
   <!-- DevOps & Otros -->
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 </p>
