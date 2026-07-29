@@ -26,7 +26,6 @@
   </tr>
 </table>
 
----
 
 ## My current stack
 
@@ -79,7 +78,6 @@ mindmap
   <img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=flat&logo=google&logoColor=white" />
 </p>
 
----
 
 ## Let's connect
 
