@@ -27,7 +27,7 @@
 </table>
 
 
-## My current stack
+##  Areas and tools I work with
 
 ```mermaid
 mindmap
@@ -86,7 +86,7 @@ mindmap
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/jglyannis">
+  <a href="https://www.linkedin.com/in/jglyannis/?skipRedirect=true">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:yannisgermansaura@gmail.com">
